@@ -13,4 +13,4 @@ PORT
 
 DOMAINS
 
-domains/xxwebhost.aexxx.eu.org_html
+domains/xxwebhost.aexxx.eu.org/_html
