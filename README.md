@@ -4,3 +4,5 @@ app.js
 UUID
 PORT
 DOMAINS
+
+domains/xxwebhost.aexxx.eu.org
